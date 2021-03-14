@@ -1,4 +1,3 @@
-/*
 // While Loop
     
 let goOn = true
@@ -18,5 +17,3 @@ while (i < cityList.length) {
     console.log(cityList[i].toLowerCase())
     i++
 }
-
-*/
