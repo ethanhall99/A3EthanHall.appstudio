@@ -1,3 +1,5 @@
+/*
+
 // Function
     
 let password1 = prompt("Enter password:")
@@ -16,3 +18,5 @@ if (answer === true)
     console.log("The passwords are the same.")
 else
     console.log("The passwords are NOT the same.")
+    
+*/
