@@ -41,14 +41,6 @@
             "functionCompare",
             "functionCompare.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "dogStore",
-            "dogStore.json"
-          ]
         }
       ],
       "configxml": null,
