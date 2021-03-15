@@ -58,9 +58,9 @@
   "right": "auto",
   "script": "",
   "size": " btn-md",
-  "style": "background-color: \"3498DB\";",
+  "style": "background-color: #3498DB;",
   "toggleControl": "",
-  "top": 248,
+  "top": 203,
   "value": "Add Item",
   "width": "auto"
 }

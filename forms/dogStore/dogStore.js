@@ -12,16 +12,12 @@ let items = [
 "Into the Wild Leash, $27.00"
 ]
 
-
-
-
 dogStore.onshow=function(){
-    btnAddItem.style.color = "black"
+    btnAddItem.style.color = "white"
     lblShowItems.textContent = items
-    
-}
+}    
 
 btnAddItem.onclick=function(){
-  wishList.push(input.value)
+  wishList.push(inptAdd.value)
   lblShowWishList.textContent = wishList
 }
